@@ -1,0 +1,5 @@
+<a href="#copy"
+   onclick="navigator.clipboard.writeText('{{ site.email }}'); const el = this; el.innerText = 'Copied!'; setTimeout(() => el.innerText = '{{ site.email }}', 2000); return false;"
+   title="Click to copy email">
+  {{ site.email }}
+</a>
