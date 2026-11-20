@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi there 👋
+  - I'm currently working on understanding the advanced capabilities and risks of models - both language and world models.
+  - I'm currently learning machine learning foundations, math behind the transformers (no, not the ones you are thinking of!) and hyper optimizing Rust programs.
+  - I'm looking for help with breaking into the field of AI research.
+  - How to reach me? [Send me an email!](sumeet.attree@gmail.com)
+  - Pronouns: He/Him
+  - Fun fact: Voyager 1 is now 1 light day away from Earth!
