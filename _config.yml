@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Sumeet Attree
+email: sumeet.attree@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My experiments and thoughts on Rust and current state of AI.
 domain: "sumeetattree.github.io"
